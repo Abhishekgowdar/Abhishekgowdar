@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=GenAI+%26+Agentic+AI+Specialist+%F0%9F%A4%96;Full-Stack+Developer+%7C+Django+Expert+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A7%A0;Cybersecurity+Enthusiast+%F0%9F%94%92;Building+Intelligent+Secure+Systems+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=GenAI+%26+Agentic+AI+Specialist;Full-Stack+Developer+%7C+Django+Expert;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Building+Intelligent+Secure+Systems" alt="Typing SVG" />
   
 </div>
 
@@ -18,12 +18,11 @@
   <a href="https://github.com/Abhishekgowdar/AdaptivePish">
     <img src="https://img.shields.io/badge/⭐_Featured_Project-AdaptivePhish-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Featured Project"/>
   </a>
-  <img src="https://img.shields.io/badge/🔥_Status-Actively_Coding-success?style=for-the-badge" alt="Status"/>
 </p>
 
 <div align="center">
   
-### 🌐 Connect with me:
+### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aabhigowda/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishekgowdar)
@@ -34,8 +33,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
 class SoftwareEngineer:
@@ -70,8 +67,6 @@ class SoftwareEngineer:
         ]
 ```
 
-<br clear="both">
-
 💼 **Currently:** Software Engineer @ Motorola Solutions  
 🎯 **Focus:** GenAI • Agentic AI • Enterprise Security • Full-Stack Development  
 🔒 **Passion:** Building intelligent, secure systems that respect user privacy  
@@ -79,7 +74,7 @@ class SoftwareEngineer:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -88,15 +83,12 @@ class SoftwareEngineer:
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### Databases & Data
+### Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
 
 ### AI/ML & GenAI
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -109,15 +101,8 @@ class SoftwareEngineer:
 ### DevOps & Tools
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-
-### Cloud & Deployment
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 
 </div>
 
@@ -125,15 +110,12 @@ class SoftwareEngineer:
 
 ## 💼 Professional Experience
 
-<table width="100%">
-<tr>
-<td width="60px" align="center" style="border: none;">
-<img src="https://img.icons8.com/color/96/000000/motorola.png" width="48px"/>
-</td>
-<td style="border: none;">
+<div align="center">
 
 ### 🏢 Motorola Solutions | Software Engineer
 *Building mission-critical communication and security solutions*
+
+</div>
 
 **Key Contributions:**
 - 🔹 Developed enterprise-grade applications using **Python, Django, and PostgreSQL**
@@ -145,13 +127,9 @@ class SoftwareEngineer:
 
 **Tech Stack:** Python | Django | PostgreSQL | GenAI | Machine Learning | Docker
 
-</td>
-</tr>
-</table>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
@@ -159,13 +137,11 @@ class SoftwareEngineer:
 
 [![AdaptivePhish](https://github-readme-stats.vercel.app/api/pin/?username=Abhishekgowdar&repo=AdaptivePish&theme=tokyonight&hide_border=true)](https://github.com/Abhishekgowdar/AdaptivePish)
 
-<img src="https://img.shields.io/badge/Status-Production_Ready-00D856?style=for-the-badge&logo=statuspal&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Models-466M_Parameters-9B59B6?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Accuracy-94%25-00D9FF?style=for-the-badge&logo=target&logoColor=white" />
-
 </div>
 
-**🎯 Privacy-preserving phishing detection using 466M AI parameters**
+**Privacy-preserving phishing detection using 466M AI parameters**
+
+<div align="center">
 
 <table>
 <tr>
@@ -187,19 +163,17 @@ class SoftwareEngineer:
 </tr>
 </table>
 
-**🔑 Key Features:**
-- ✅ Multi-modal AI detection (URL + Visual + Text analysis)
-- ✅ Local LLM inference for privacy preservation
-- ✅ Computer Vision with CLIP (400M params)
-- ✅ NLP with DistilBERT (66M params)
-- ✅ Django backend + REST API
-- ✅ Real-time threat assessment
+</div>
 
-**💻 Technologies:**
-```
-Python | PyTorch | CLIP | DistilBERT | FastAPI | Django 
-Computer Vision | NLP | Cybersecurity | Machine Learning
-```
+**Key Features:**
+- Multi-modal AI detection (URL + Visual + Text analysis)
+- Local LLM inference for privacy preservation
+- Computer Vision with CLIP (400M parameters)
+- NLP with DistilBERT (66M parameters)
+- Django backend + REST API
+- Real-time threat assessment
+
+**Technologies:** `Python` `PyTorch` `CLIP` `DistilBERT` `FastAPI` `Django` `Computer Vision` `NLP` `Cybersecurity`
 
 <div align="center">
   
@@ -208,68 +182,9 @@ Computer Vision | NLP | Cybersecurity | Machine Learning
 
 </div>
 
-<br>
-
-<details>
-<summary><b>🤖 Multi-Agent AI System</b> (Click to expand)</summary>
-<br>
-
-<img src="https://img.shields.io/badge/Status-In_Development-FFA500?style=for-the-badge&logo=statuspal&logoColor=white" />
-
-**Enterprise automation using coordinated AI agents**
-
-**🔑 Key Features:**
-- 🔸 Multi-agent collaboration framework
-- 🔸 LangChain + AutoGen integration
-- 🔸 Task decomposition and orchestration
-- 🔸 Agent communication protocols
-- 🔸 RAG-enhanced knowledge retrieval
-
-**💻 Technologies:** `Python` `LangChain` `AutoGen` `LLMs` `RAG` `Vector Databases`
-
-</details>
-
-<details>
-<summary><b>🔒 AI-Powered Threat Detection System</b> (Click to expand)</summary>
-<br>
-
-<img src="https://img.shields.io/badge/Status-Research-0096FF?style=for-the-badge&logo=statuspal&logoColor=white" />
-
-**Real-time security threat detection using machine learning**
-
-**🔑 Key Features:**
-- 🔸 Anomaly detection using ML algorithms
-- 🔸 Pattern recognition for threat identification
-- 🔸 Real-time alert system
-- 🔸 Integration with security infrastructure
-- 🔸 Privacy-preserving analysis
-
-**💻 Technologies:** `Python` `Machine Learning` `PostgreSQL` `Django` `Cybersecurity`
-
-</details>
-
-<details>
-<summary><b>🧠 GenAI-Powered Knowledge Assistant</b> (Click to expand)</summary>
-<br>
-
-<img src="https://img.shields.io/badge/Status-Planning-C0C0C0?style=for-the-badge&logo=statuspal&logoColor=black" />
-
-**Intelligent knowledge retrieval using RAG architecture**
-
-**🔑 Key Features:**
-- 🔸 Retrieval-Augmented Generation (RAG)
-- 🔸 Vector database for semantic search
-- 🔸 Context-aware responses
-- 🔸 Document processing pipeline
-- 🔸 Enterprise knowledge management
-
-**💻 Technologies:** `Python` `LangChain` `Vector DB` `LLMs` `FastAPI`
-
-</details>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishekgowdar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
@@ -278,10 +193,6 @@ Computer Vision | NLP | Cybersecurity | Machine Learning
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekgowdar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekgowdar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -303,42 +214,26 @@ Computer Vision | NLP | Cybersecurity | Machine Learning
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/python.png" width="65px"/>
       <br><b>Backend Development</b>
-      <br>
-      <sub>Python | Django | FastAPI</sub>
-      <br>
-      <sub>REST APIs | Microservices</sub>
-      <br>
-      <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-Expert-00D9FF?style=flat-square" />
+      <br><sub>Python | Django | FastAPI</sub>
+      <br><sub>REST APIs | Microservices</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="65px"/>
       <br><b>GenAI & Agentic AI</b>
-      <br>
-      <sub>LangChain | AutoGen | RAG</sub>
-      <br>
-      <sub>Multi-Agent Systems | LLMs</sub>
-      <br>
-      <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-Expert-00D9FF?style=flat-square" />
+      <br><sub>LangChain | AutoGen | RAG</sub>
+      <br><sub>Multi-Agent Systems | LLMs</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="65px"/>
       <br><b>Cybersecurity</b>
-      <br>
-      <sub>Threat Detection</sub>
-      <br>
-      <sub>AI Security | Secure Dev</sub>
-      <br>
-      <img src="https://img.shields.io/badge/⭐⭐⭐⭐-Advanced-00D9FF?style=flat-square" />
+      <br><sub>Threat Detection</sub>
+      <br><sub>AI Security | Secure Dev</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/database.png" width="65px"/>
       <br><b>Database Engineering</b>
-      <br>
-      <sub>PostgreSQL | SQL</sub>
-      <br>
-      <sub>Vector Databases | Optimization</sub>
-      <br>
-      <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-Expert-00D9FF?style=flat-square" />
+      <br><sub>PostgreSQL | SQL</sub>
+      <br><sub>Vector Databases</sub>
     </td>
   </tr>
 </table>
@@ -348,8 +243,6 @@ Computer Vision | NLP | Cybersecurity | Machine Learning
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 What I Build
-
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
 
 ```typescript
 interface MyProjects {
@@ -379,84 +272,23 @@ interface MyProjects {
 }
 ```
 
-<br clear="both">
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Skill Proficiency Matrix
+## 📈 Skill Proficiency
 
 <div align="center">
 
-| 🎯 Domain | 💻 Technologies | 📊 Level |
-|:----------|:----------------|:---------|
-| **Backend Development** | Python, Django, FastAPI | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Expert-00D9FF?style=flat-square) |
-| **Database Engineering** | PostgreSQL, SQL, Query Optimization | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Expert-00D9FF?style=flat-square) |
-| **GenAI & LLMs** | LangChain, RAG, Prompt Engineering | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Expert-00D9FF?style=flat-square) |
-| **Agentic AI** | AutoGen, Multi-Agent Systems | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Expert-00D9FF?style=flat-square) |
-| **Machine Learning** | PyTorch, scikit-learn, Model Training | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Advanced-4ECDC4?style=flat-square) |
-| **Cybersecurity** | Threat Detection, Secure Coding | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Advanced-4ECDC4?style=flat-square) |
-| **DevOps & Tools** | Docker, Git, Linux, CI/CD | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Advanced-4ECDC4?style=flat-square) |
-| **APIs & Integration** | REST, GraphQL, Microservices | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Advanced-4ECDC4?style=flat-square) |
+| Domain | Technologies | Level |
+|:-------|:-------------|:------|
+| **Backend Development** | Python, Django, FastAPI | ⭐⭐⭐⭐⭐ |
+| **Database Engineering** | PostgreSQL, SQL, Optimization | ⭐⭐⭐⭐⭐ |
+| **GenAI & LLMs** | LangChain, RAG, Prompt Engineering | ⭐⭐⭐⭐⭐ |
+| **Agentic AI** | AutoGen, Multi-Agent Systems | ⭐⭐⭐⭐⭐ |
+| **Machine Learning** | PyTorch, scikit-learn | ⭐⭐⭐⭐ |
+| **Cybersecurity** | Threat Detection, Secure Coding | ⭐⭐⭐⭐ |
+| **DevOps & Tools** | Docker, Git, Linux, CI/CD | ⭐⭐⭐⭐ |
+| **APIs & Integration** | REST, GraphQL, Microservices | ⭐⭐⭐⭐ |
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎓 Professional Development
-
-<div align="center">
-
-### 🔥 Current Focus Areas (2026)
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60px"/>
-<br><b>Advanced Multi-Agent AI</b>
-<br><sub>Building coordinated AI systems</sub>
-</td>
-<td width="50%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60px"/>
-<br><b>Production MLOps</b>
-<br><sub>Deploying ML at scale</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/settings.png" width="60px"/>
-<br><b>Enterprise GenAI</b>
-<br><sub>LLM system architecture</sub>
-</td>
-<td width="50%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/security-shield-green.png" width="60px"/>
-<br><b>AI Security</b>
-<br><sub>Red teaming & defense</sub>
-</td>
-</tr>
-</table>
-
-**📚 Currently Learning:**
-- Advanced LangChain patterns & LangGraph
-- Multi-agent orchestration frameworks (CrewAI, AutoGen)
-- AI security best practices & prompt injection defense
-- High-performance PostgreSQL & vector database optimization
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekgowdar&theme=tokyonight" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekgowdar&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekgowdar&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishekgowdar&theme=tokyonight" width="32%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -474,8 +306,6 @@ interface MyProjects {
   
   <br><br>
   
-  <p>⭐️ From <a href="https://github.com/Abhishekgowdar">Abhishekgowdar</a> | Made with ❤️ and lots of ☕</p>
-  
-  <img src="https://img.shields.io/github/stars/Abhishekgowdar?style=social" />
+  <p>⭐ From <a href="https://github.com/Abhishekgowdar">Abhishekgowdar</a></p>
   
 </div>
