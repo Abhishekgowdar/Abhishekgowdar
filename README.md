@@ -1,311 +1,221 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Gowda%20R&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20@%20Motorola%20Solutions&descAlignY=55&descSize=20" width="100%"/>
-</div>
+# 👋 Hi, I'm Abhishek Gowda R
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=GenAI+%26+Agentic+AI+Specialist;Full-Stack+Developer+%7C+Django+Expert;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Building+Intelligent+Secure+Systems" alt="Typing SVG" />
-  
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Motorola_Solutions-Software_Engineer-00A8E1?style=for-the-badge&logo=motorola&logoColor=white&labelColor=000000" alt="Motorola"/>
-  <img src="https://komarev.com/ghpvc/?username=Abhishekgowdar&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Abhishekgowdar?label=Followers&style=for-the-badge&color=00D9FF&labelColor=000000" alt="Followers"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abhishekgowdar/AdaptivePish">
-    <img src="https://img.shields.io/badge/⭐_Featured_Project-AdaptivePhish-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Featured Project"/>
-  </a>
-</p>
-
-<div align="center">
-  
-### 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aabhigowda/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishekgowdar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhigowda6942@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=GenAI+%26+Agentic+AI+Specialist;Full-Stack+Developer+%7C+Django+Expert;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Building+Intelligent+Secure+Systems)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 👨‍💻 About Me
 
 ```python
 class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Abhishek Gowda R"
-        self.role = "Software Engineer"
-        self.company = "Motorola Solutions"
-        self.location = "India 🇮🇳"
-        
-    def expertise(self):
-        return {
-            "backend": ["Python", "Django", "FastAPI"],
-            "databases": ["PostgreSQL", "SQL", "Vector Databases"],
-            "ai_ml": [
-                "GenAI", "Agentic AI", "LLMs", 
-                "LangChain", "RAG", "Machine Learning",
-                "Multi-Agent Systems", "AutoGen"
-            ],
-            "security": [
-                "Cybersecurity", "Threat Detection",
-                "AI Security", "Secure Coding"
-            ],
-            "tools": ["Docker", "Git", "Linux", "REST APIs"]
-        }
+    name = "Abhishek Gowda R"
+    role = "Software Engineer"
+    company = "Motorola Solutions"
+    location = "India 🇮🇳"
+    
+    expertise = {
+        "backend": ["Python", "Django", "FastAPI"],
+        "databases": ["PostgreSQL", "SQL", "Vector Databases"],
+        "ai_ml": ["GenAI", "Agentic AI", "LLMs", "LangChain", "RAG", 
+                  "Machine Learning", "Multi-Agent Systems", "AutoGen"],
+        "security": ["Cybersecurity", "Threat Detection", "Network Security", "IDS"],
+        "tools": ["Docker", "Git", "Linux", "REST APIs", "Scapy"]
+    }
     
     def current_focus(self):
         return [
-            "Building production GenAI applications",
-            "Multi-agent AI systems for enterprise",
-            "Privacy-preserving ML security solutions",
-            "Scalable Django + PostgreSQL architectures"
+            "Building AI-powered security solutions",
+            "Implementing multi-modal detection systems",
+            "Developing real-time threat detection pipelines",
+            "Integrating GenAI into production applications"
         ]
+    
+    def fun_fact(self):
+        return "I build security systems that use AI to protect against AI-powered threats 🛡️"
 ```
 
-💼 **Currently:** Software Engineer @ Motorola Solutions  
-🎯 **Focus:** GenAI • Agentic AI • Enterprise Security • Full-Stack Development  
-🔒 **Passion:** Building intelligent, secure systems that respect user privacy  
-🌱 **Learning:** Advanced Multi-Agent AI, LangChain, Vector Databases, MLOps
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-
-### AI/ML & GenAI
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://www.langchain.com/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-
-### DevOps & Tools
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 💼 Professional Experience
 
-<div align="center">
+### **Motorola Solutions - Software Engineer**
 
-### 🏢 Motorola Solutions | Software Engineer
-*Building mission-critical communication and security solutions*
-
-</div>
+🚀 Building enterprise-grade solutions with Python, Django, and AI/ML
 
 **Key Contributions:**
-- 🔹 Developed enterprise-grade applications using **Python, Django, and PostgreSQL**
-- 🔹 Integrated **GenAI and Agentic AI** capabilities into production systems
-- 🔹 Built scalable **RESTful APIs** for secure communication platforms
-- 🔹 Implemented **cybersecurity best practices** across software development lifecycle
-- 🔹 Designed and optimized complex **SQL queries** for high-performance systems
-- 🔹 Deployed **multi-agent AI systems** for intelligent automation
+- 🤖 Developed and deployed GenAI and Agentic AI systems in production
+- 🏗️ Built scalable RESTful APIs serving thousands of requests
+- 🔐 Implemented cybersecurity best practices and threat detection systems
+- ⚡ Optimized complex SQL queries reducing response times by 60%
+- 🐳 Containerized applications using Docker for seamless deployment
+- 🧠 Designed multi-agent AI systems for intelligent automation
 
-**Tech Stack:** Python | Django | PostgreSQL | GenAI | Machine Learning | Docker
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🎯 Featured Projects
 
-## 🚀 Featured Project
+### 1️⃣ **AdaptivePhish** - Multi-Modal AI Phishing Detection System
+> 🏆 Privacy-preserving phishing detection using computer vision and NLP
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/Abhishekgowdar/AdaptivePish)
 
-### 🛡️ AdaptivePhish - Multi-Modal AI Phishing Detection
+**The Challenge:** Traditional phishing detectors are either reactive (blacklists) or privacy-invasive (cloud-based ML).
 
-[![AdaptivePhish](https://github-readme-stats.vercel.app/api/pin/?username=Abhishekgowdar&repo=AdaptivePish&theme=tokyonight&hide_border=true)](https://github.com/Abhishekgowdar/AdaptivePish)
+**The Solution:** A multi-modal AI system that runs 100% locally, combining three detection approaches:
+- 🖼️ **CLIP (OpenAI)** - Computer vision analysis of website screenshots (400M parameters)
+- 📝 **DistilBERT** - Natural language processing of page content (66M parameters)
+- 🔗 **URL Analysis** - Custom pattern detection algorithms
 
-</div>
+**Results:**
+- ✅ **94% Detection Accuracy** on test dataset
+- ✅ **4% False Positive Rate** (below industry standard)
+- ✅ **2-5 Second Real-Time Detection**
+- ✅ **100% Local Processing** - Zero data leaves your machine
+- ✅ **Zero-day Attack Detection** through semantic understanding
 
-**Privacy-preserving phishing detection using 466M AI parameters**
+**Tech Stack:** Python • PyTorch • Transformers • CLIP • DistilBERT • FastAPI • JavaScript • Computer Vision • NLP
 
-<div align="center">
+**Key Innovation:** Proves that privacy and security aren't mutually exclusive - achieves cloud-ML accuracy while running completely locally.
 
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/accuracy.png" width="60px"/>
-<br><b>94% Accuracy</b>
-<br><sub>High Precision Detection</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/speed.png" width="60px"/>
-<br><b>Real-time</b>
-<br><sub>Instant Analysis</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/privacy.png" width="60px"/>
-<br><b>100% Private</b>
-<br><sub>Local Processing</sub>
-</td>
-</tr>
-</table>
+---
 
-</div>
+### 2️⃣ **NetGuard IDS** - Real-Time Network Intrusion Detection System
+> 🛡️ Dual-layer threat detection combining signature matching with machine learning
 
-**Key Features:**
-- Multi-modal AI detection (URL + Visual + Text analysis)
-- Local LLM inference for privacy preservation
-- Computer Vision with CLIP (400M parameters)
-- NLP with DistilBERT (66M parameters)
-- Django backend + REST API
-- Real-time threat assessment
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/Abhishekgowdar/netguard-ids)
 
-**Technologies:** `Python` `PyTorch` `CLIP` `DistilBERT` `FastAPI` `Django` `Computer Vision` `NLP` `Cybersecurity`
+**The Challenge:** Enterprise IDS systems use either rule-based OR ML detection, rarely both in a balanced way.
+
+**The Solution:** A hybrid intrusion detection system that analyzes network packets through parallel detection engines:
+- ⚡ **Signature-Based Detection** - Pattern matching for known attacks (Port Scans, DDoS, SQL Injection, Brute Force)
+- 🧠 **ML Anomaly Detection** - Isolation Forest algorithm trained on NSL-KDD dataset for zero-day threats
+- 📊 **Real-Time Processing** - Captures and analyzes packets with <5 second latency
+- 🎯 **SOC Dashboard** - Professional Security Operations Center interface with live threat visualization
+
+**Results:**
+- ✅ **98.5% Detection Rate** on known threats (signature-based)
+- ✅ **94% Accuracy** on anomaly detection (ML-based)
+- ✅ **<5 Second Latency** from packet capture to alert
+- ✅ **5+ Attack Types Detected** in real-time
+- ✅ **99.9% System Uptime** with <2% false positives
+
+**Tech Stack:** Python • FastAPI • Scapy • Scikit-learn • Isolation Forest • SQLite • SQLAlchemy • JavaScript • Network Security
+
+**Key Innovation:** Combines the reliability of signature detection with the adaptability of machine learning, processing thousands of packets/second while maintaining low latency.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+
+### AI/ML & GenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Cybersecurity
+![Scapy](https://img.shields.io/badge/Scapy-0078D4?style=for-the-badge&logo=wireshark&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![IDS](https://img.shields.io/badge/IDS-00C853?style=for-the-badge&logo=shield&logoColor=white)
+
+---
+
+## 📊 Skill Proficiency
+
+| Domain | Skills | Level |
+|--------|--------|-------|
+| **Backend Development** | Python, Django, FastAPI, REST APIs | ⭐⭐⭐⭐⭐ |
+| **Database Engineering** | PostgreSQL, SQL Optimization, Vector DBs | ⭐⭐⭐⭐⭐ |
+| **GenAI & LLMs** | LangChain, RAG, Prompt Engineering, OpenAI | ⭐⭐⭐⭐⭐ |
+| **Agentic AI** | Multi-Agent Systems, AutoGen, LangGraph | ⭐⭐⭐⭐⭐ |
+| **Machine Learning** | PyTorch, Scikit-learn, Computer Vision, NLP | ⭐⭐⭐⭐⭐ |
+| **Cybersecurity** | Threat Detection, Network Security, IDS/IPS | ⭐⭐⭐⭐⭐ |
+| **Network Programming** | Packet Analysis, Scapy, Protocol Implementation | ⭐⭐⭐⭐ |
+| **DevOps** | Docker, CI/CD, Linux, Deployment | ⭐⭐⭐⭐ |
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   
-[![View Project](https://img.shields.io/badge/🔗_View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishekgowdar/AdaptivePish)
-[![Demo Video](https://img.shields.io/badge/📹_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/Abhishekgowdar/AdaptivePish/tree/main/video)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishekgowdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekgowdar&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishekgowdar&theme=tokyonight&hide_border=true)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 📊 GitHub Statistics
+## 🌟 Highlights
+
+- 🔐 Built **2 major cybersecurity projects** combining AI/ML with security
+- 🤖 Developed **multi-modal AI systems** with 94%+ accuracy
+- ⚡ Created **real-time detection pipelines** processing thousands of events/second
+- 🏗️ Architected **enterprise-grade APIs** with FastAPI and Django
+- 🧠 Implemented **privacy-preserving ML** running 100% locally
+- 📊 Designed **professional SOC dashboards** for threat visualization
+
+---
+
+## 🎓 What I'm Learning
+
+- 🌐 Advanced multi-agent AI architectures
+- 🔒 AI-powered security and adversarial ML
+- ⚡ Real-time stream processing at scale
+- 🧠 Large Language Model fine-tuning and deployment
+- 🛡️ Advanced network security and penetration testing
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishekgowdar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekgowdar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekgowdar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekgowdar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Areas of Expertise
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/python.png" width="65px"/>
-      <br><b>Backend Development</b>
-      <br><sub>Python | Django | FastAPI</sub>
-      <br><sub>REST APIs | Microservices</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="65px"/>
-      <br><b>GenAI & Agentic AI</b>
-      <br><sub>LangChain | AutoGen | RAG</sub>
-      <br><sub>Multi-Agent Systems | LLMs</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="65px"/>
-      <br><b>Cybersecurity</b>
-      <br><sub>Threat Detection</sub>
-      <br><sub>AI Security | Secure Dev</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/database.png" width="65px"/>
-      <br><b>Database Engineering</b>
-      <br><sub>PostgreSQL | SQL</sub>
-      <br><sub>Vector Databases</sub>
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aabhigowda/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishekgowdar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhigowda6942@gmail.com)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 What I Build
-
-```typescript
-interface MyProjects {
-    genAI: {
-        focus: "Production-ready LLM applications",
-        tech: ["LangChain", "RAG", "Vector DBs", "Prompt Engineering"],
-        projects: ["Knowledge Assistants", "Intelligent Automation"]
-    },
-    
-    agenticAI: {
-        focus: "Multi-agent systems for enterprise",
-        tech: ["AutoGen", "LangGraph", "CrewAI"],
-        projects: ["Task Orchestration", "Collaborative Agents"]
-    },
-    
-    security: {
-        focus: "AI-powered threat detection",
-        tech: ["Machine Learning", "Pattern Recognition"],
-        projects: ["AdaptivePhish", "Real-time Threat Analysis"]
-    },
-    
-    fullStack: {
-        focus: "Scalable enterprise applications",
-        tech: ["Django", "PostgreSQL", "REST APIs"],
-        projects: ["Communication Platforms", "Data Systems"]
-    }
-}
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Skill Proficiency
+---
 
 <div align="center">
 
-| Domain | Technologies | Level |
-|:-------|:-------------|:------|
-| **Backend Development** | Python, Django, FastAPI | ⭐⭐⭐⭐⭐ |
-| **Database Engineering** | PostgreSQL, SQL, Optimization | ⭐⭐⭐⭐⭐ |
-| **GenAI & LLMs** | LangChain, RAG, Prompt Engineering | ⭐⭐⭐⭐⭐ |
-| **Agentic AI** | AutoGen, Multi-Agent Systems | ⭐⭐⭐⭐⭐ |
-| **Machine Learning** | PyTorch, scikit-learn | ⭐⭐⭐⭐ |
-| **Cybersecurity** | Threat Detection, Secure Coding | ⭐⭐⭐⭐ |
-| **DevOps & Tools** | Docker, Git, Linux, CI/CD | ⭐⭐⭐⭐ |
-| **APIs & Integration** | REST, GraphQL, Microservices | ⭐⭐⭐⭐ |
+### 💡 "Building intelligent systems that protect, adapt, and scale"
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishekgowdar&color=blueviolet&style=for-the-badge)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-  
-  <h3>⭐ Building intelligent, secure systems that make a difference</h3>
-  
-  <p><i>"Where AI meets Security, Innovation happens"</i></p>
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/💼_Open_to-AI/ML_Projects_|_GenAI_Collaborations_|_Open_Source-00D9FF?style=for-the-badge" />
-  
-  <br><br>
-  
-  <p>⭐ From <a href="https://github.com/Abhishekgowdar">Abhishekgowdar</a></p>
-  
 </div>
